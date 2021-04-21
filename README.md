@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world 👋  
 
-<!--
-**nagasaisriya/nagasaisriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Building an e-commerce website
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... Front-end technologies
+- 🤔 I’m looking for help with ... Firebase
+- 💬 Ask me about ... Algorithms and Data structures, Front-end web development
+- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/nagasaisriya/)
+- 😄 Pronouns: ... She/Her
+- ⚡ Fun fact: ... I love to write poems and play ukulele
+
