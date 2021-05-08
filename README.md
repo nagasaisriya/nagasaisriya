@@ -8,7 +8,7 @@
 </p>
 
 - 🔭 I’m currently working on ... Building an e-commerce website
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently learning ... ReactJS and Django
 - 👯 I’m looking to collaborate on ... Front-end technologies
 - 🤔 I’m looking for help with ... Firebase
 - 💬 Ask me about ... Algorithms and Data structures, Front-end web development
@@ -26,6 +26,7 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
