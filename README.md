@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on ... Building an e-commerce website
 - 🌱 I’m currently learning ... ReactJS and Django
 - 👯 I’m looking to collaborate on ... Front-end technologies
-- 🤔 I’m looking for help with ... Firebase
+- 🤔 I’m looking for help with ... Google Cloud
 - 💬 Ask me about ... Algorithms and Data structures, Front-end web development
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/nagasaisriya/) | [Github](https://github.com/nagasaisriya)
 - 😄 Pronouns: ... She/Her
