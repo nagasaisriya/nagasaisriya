@@ -1,8 +1,4 @@
 ### HELLO WORLD🚀 I'm Sriya
-- A computer science undergrad at **GNITS, Hyderabad**
-- I'm interested in Artificial Intelligence and Data science 
-- I like to design and build web pages
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/63009472/115747177-9d177b00-a3b2-11eb-8c36-11d0a6207090.gif" alt="MyGif" width="400" height="400"/>
 </p>
