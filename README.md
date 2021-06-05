@@ -14,15 +14,14 @@
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 <p align="center">
-  <img height="50" width="50" alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="Java" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/java.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height="50" width="50" alt="HTML" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="CSS" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img height="50" width="50" alt="Javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/cplusplus.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img height="50" width="50" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img height="50" width="50" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img height="50" width="50" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" width="50" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img height="50" width="50" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
-  <img height="50" width="50" alt="wordpress" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/wordpress.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr />
 </br>
