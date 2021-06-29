@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning ... ReactJS and Django
 - 👯 I’m looking to collaborate on ... Front-end technologies
 - 🤔 I’m looking for help with ... Google Cloud
-- 💬 Ask me about ... Algorithms and Data structures, Front-end web development
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I love to write poems and play ukulele
 
