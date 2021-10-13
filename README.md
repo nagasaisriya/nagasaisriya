@@ -1,15 +1,15 @@
-### HELLO WORLD🚀 I'm Sriya
+<h1 align="center"><b> HELLO WORLD  </b></h1> 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/63009472/115747177-9d177b00-a3b2-11eb-8c36-11d0a6207090.gif" alt="MyGif" width="400" height="400"/>
+<img src="https://user-images.githubusercontent.com/63009472/115747177-9d177b00-a3b2-11eb-8c36-11d0a6207090.gif" alt="MyGif" width="300" height="300"/>
 </p>
-
-- 🔭 I’m currently working on ... Building an e-commerce website
-- 🌱 I’m currently learning ... ReactJS and Django
-- 👯 I’m looking to collaborate on ... Front-end technologies
-- 🤔 I’m looking for help with ... Google Cloud
-- 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ... I love to write poems and play ukulele
-
+<p align="center">
+  <ul >
+  <li> 🌱 I’m currently learning ... ReactJS and Django </li>
+  <li> 👯 I’m looking to collaborate on ... Front-end technologies</li>
+  <li> 😄 Pronouns: ... She/Her</li>
+  <li> ⚡ Fun fact: ... I love to write poems and play ukulele</li>
+  </ul>
+</p>
 
 <h2 align="center">🛠️ Languages & Frameworks</h2>
 <p align="center">
@@ -20,10 +20,8 @@
   <img height="50" width="50" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
   <img height="50" width="50" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<hr />
-</br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nagasaisriya&&show_icons=true&count_private=true" />
-</p>
+<br>
+<p align="center"><img align="middle" src="https://github-readme-stats.vercel.app/api?username=nagasaisriya&show_icons=true&locale=en"  alt="nss_stats" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nagasaisriya&color=blueviolet" alt="nss_stalkers" /> </p>
+
