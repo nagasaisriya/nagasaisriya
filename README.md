@@ -4,8 +4,8 @@
 </p>
 <p align="center">
   <ul >
-  <li> 🌱 I’m currently learning ... ReactJS and Django </li>
-  <li> 👯 I’m looking to collaborate on ... Front-end technologies</li>
+  <li> 🌱 I’m currently learning ... Problem Solving and DSA </li>
+  <li> 👯 I’m looking to collaborate on ... Tech-talks,Web dev</li>
   <li> 😄 Pronouns: ... She/Her</li>
   <li> ⚡ Fun fact: ... I love to write poems and play ukulele</li>
   </ul>
