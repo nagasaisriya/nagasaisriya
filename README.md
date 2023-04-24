@@ -4,10 +4,12 @@
 </p>
 <p align="center">
   <ul >
-  <li> 🌱 I’m currently learning ... Problem Solving and DSA </li>
-  <li> 👯 I’m looking to collaborate on ... Tech-talks,Web dev</li>
-  <li> 😄 Pronouns: ... She/Her</li>
-  <li> ⚡ Fun fact: ... I love to write poems and play ukulele</li>
+  <li> 👩‍💻 I’m a Cloud Support Associate Intern at Amazon Web Services </li>
+  <li> 🌱 I’m currently learning ... AWS Services, DSA </li>
+  <li> 👯 I’m looking to collaborate on ... Tech-talks, Web dev</li>
+  <li> 😄 Pronouns: ... She/Her/Hers</li>
+  <li> ⚡ Fun fact: ... I love to write short poems and play ukulele</li>
+  <li> ⏸ What's on your watchlist: ... I am gutsy to start Naruto, no idea when it ends XD</li>
   </ul>
 </p>
 
