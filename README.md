@@ -8,7 +8,7 @@
   <li> 🌱 I’m currently learning ... AWS Services, Data Structures & Algorithms </li>
   <li> 👯 I’m looking to collaborate on ... Tech-talks, Web dev</li>
   <li> 😄 Pronouns: ... She/Her/Hers</li>
-  <li> ⚡ Fun fact: ... I love to write short poems and play ukulele</li>
+  <li> ⚡ Fun fact: ... I am into poetry and sometimes play ukulele</li>
   <li> ⏸ What's on your watchlist: ... I am gutsy to start Naruto, no idea when it ends XD</li>
   </ul>
 </p>
